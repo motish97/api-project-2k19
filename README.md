@@ -10,9 +10,13 @@ Per compilare:
 
 ` /usr/bin/gcc -DEVAL -std=gnu11 -O2 -pipe -static -s -o progetto_FUNZIONANTE progetto_FUNZIONANTE.c -lm`
 
-Per Eseguire:
+Per compilare (fornendo piu' informazioni per Valgrind):
 
 ` gcc -o progetto_FUNZIONANTE -Wall -ggdb3 -g progetto_FUNZIONANTE.c `
+
+Per eseguire:
+
+` ./progetto_FUNZIONANTE < path_to_test_file `
 
 
 
