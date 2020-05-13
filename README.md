@@ -1,5 +1,7 @@
 # Progetto di Algoritmi e Principi dell'Informatica
+
 Politecnico di Milano, Anno accademico 2018-2019
+
 Realizzato da Ivan Motasov mediante l'utilizzo di un'Hash Table
 
 Sono disponibili sia i test pubblici forniti agli studenti prima della consegna, sia i test privati, forniti dopo la consegna di settembre.
